@@ -1,0 +1,57 @@
+.card-body {
+    padding-block-start: 2rem;
+}
+
+.card {
+    height: 27rem;
+}
+
+.ortala {
+    text-align:center;
+}
+body {
+    background-color: #E9ECEF;
+}
+footer {
+    text-align:right;
+}
+.product-class {
+    text-align: center;
+}
+.product-prop {
+    text-align: center;
+    background-color: white;
+}
+h1,h3 {
+    color: brown;
+}
+h2 {
+    text-align: center;
+    color:brown;
+    font: 300;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: lightslategrey;
+    border-style: inset;
+}
+.button-color {
+    background-color: slategray;
+}
+h5 {
+    font-size: medium;
+}
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+a:link {
+    color:black;    
+    text-decoration: none;
+}
+a:hover {
+    color: teal;
+    background-color: azure;
+    text-decoration: underline;
+}
+p {
+    text-indent:50px;
+}
